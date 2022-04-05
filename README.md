@@ -1,3 +1,5 @@
+![AR banner](https://user-images.githubusercontent.com/98814925/161781993-814e4a06-81d4-4028-8527-68f1afa18190.png)
+
 - 🐱‍👤 Hi, I’m @alastaraven!
 - 🐱‍🏍 I’m interested in music: alternatve, indie, folk, etc
 - 🐱‍💻 I’m currently learning all about web-development (html, css, js, etc) 
