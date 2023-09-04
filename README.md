@@ -1,9 +1,9 @@
-![AR banner](https://user-images.githubusercontent.com/98814925/161781993-814e4a06-81d4-4028-8527-68f1afa18190.png)
+![cover-bh](https://github.com/alastaraven/alastaraven/assets/98814925/68fc3cc1-20b5-431e-88b2-43e28075a1dd)
 
 - 🐱‍👤 Hi, I’m @alastaraven!
-- 🐱‍🏍 I’m interested in music: alternatve, indie, folk, etc
-- 🐱‍💻 I’m currently learning all about web-development (html, css, js, php, etc) 
-- 🐱‍🚀 I’m looking to collaborate on creating good projets
+- 🐱‍💻 Currently learning all about web-development (html, css, js, php, etc) 
+- 🐱‍🚀 Looking to collaborate on creating interesting projets
+- 🐱‍🏍 Interested in music: alternatve, indie, folk, etc
 - 🐱‍👓 U can contact me at the link  https://t.me/alastaraven
 
 <!---
